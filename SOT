@@ -1,0 +1,20 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}  % För svenska tecken
+\usepackage{amsmath, amssymb}  % Matematiska symboler
+
+\begin{document}
+
+\title{\textbf{Instuderingsfrågor\\ System och transformer}}
+\author{Skapad av Ludvig Modin, E23 }
+\date{ }
+\maketitle 
+
+\section*{}
+Poängen med dessa frågor är att kontrollera grundläggande teori i kursen System och transformer med utgångspunkt i boken \textit{Lineära system} av Sven Spanne, 1995. Kursen är främst präglad av praktisk tillämpning, därav hålls detta dokument rätt kortfattat. Jag rekommenderar att göra detta före en praktisk repetition. Frågorna som ställs är främst kring definitioner som uteblivit från formelblad.
+
+\section*{Frågor}
+\begin{enumerate}
+    \item 
+
+\end{enumerate}
+\end{document}
