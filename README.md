@@ -1,0 +1,1 @@
+Syftet med denna sida är att dela med mig av instuderingsfrågor till kurser på Elektroteknik vid Lunds tekniska högskola. Detta repo är främst ett sätt för mig att dela dessa till mina vänner utan att behöva skicka iväg massor av mejl. 
